@@ -36,15 +36,12 @@ The goal is to transform raw racing statistics into actionable insights and comp
 Who dominates the most difficult circuit in the world?
 > **Insight:** Data analysis reveals that **Ayrton Senna** holds the all-time record for wins at the *Circuit de Monaco*, outperforming modern legends.
 
-*(Place your Monaco Bar Chart screenshot here)*
-`![Monaco Chart](link_to_your_image.png)`
 
 ### 2. 📈 The Ferrari Timeline (Rise & Fall)
 Analyzing the performance of the most iconic team in history.
 > **Insight:** A time-series analysis showing Ferrari's golden era (early 2000s) vs. periods of drought, visualized using a custom line plot.
 
-*(Place your Ferrari Line Plot screenshot here)*
-`![Ferrari Chart](link_to_your_image.png)`
+
 
 ### 3. 🌟 One-Hit Wonders
 Not everyone becomes a legend.
