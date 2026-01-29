@@ -57,7 +57,7 @@ If you want to replicate the analysis on your machine:
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/Reda-Mota/F1-Data-Analysis-Project.git](https://github.com/Reda-Mota/F1-Data-Analysis-Project.git)
+    git clone [https://github.com/Reda-Mota/F1-Data-Analysis-Project.git]
     ```
 2.  **Install required libraries:**
     ```bash
